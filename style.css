@@ -1,5 +1,35 @@
+header li { 
+    display: inline-block;
+    list-style: none;
+    width: 32%;
+    text-align: center;
+    font-family: 'Fredoka One', cursive;
+    background-color:#FFFFE0;
+    font-size: 30px;
+}
+li { display: inline;
+    text-decoration: none:
+}
+
 h1 { text-align: center;
     font-family:'Great Vibes', cursive;
     font-size: 50px;
     color: #800080;
+}
+
+.ombre { width: 300px;
+}
+.couche soleil {width: 100px;
+}
+.maxime {width: 300px;
+}
+.paysage neige {width: 300px;
+}
+.fleur {width: 300px;
+}
+.montagne {width: 400px;
+}
+.tour eiffel {width: 400px;
+}
+.parasols {width: 300px;
 }
