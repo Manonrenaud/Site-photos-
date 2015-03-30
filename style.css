@@ -1,12 +1,18 @@
 header li { 
     display: inline-block;
     list-style: none;
-    width: 32%;
+    width: 46%;
     text-align: center;
-    font-family: 'Fredoka One', cursive;
-    background-color:#FFFFE0;
-    font-size: 30px;
+    font-family: 'Sofia', cursive;
+    font-size: 20px;
 }
+
+header a { 
+    color: black;
+    font-weight: bold;
+    text-decoration: none;
+}
+
 li { display: inline;
     text-decoration: none:
 }
@@ -17,19 +23,13 @@ h1 { text-align: center;
     color: #800080;
 }
 
-.ombre { width: 300px;
+.images-home{
+    width:300px;
+    margin:auto;
 }
-.couche soleil {width: 100px;
-}
-.maxime {width: 300px;
-}
-.paysage neige {width: 300px;
-}
-.fleur {width: 300px;
-}
-.montagne {width: 400px;
-}
-.tour eiffel {width: 400px;
-}
-.parasols {width: 300px;
+
+.images-home img{
+    display: block;
+    width:100%;
+    margin: 10px 0px;
 }
